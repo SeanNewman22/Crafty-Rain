@@ -66,3 +66,8 @@ var screenWidth = 800;
               size: '30px',
               weight: 'bold'
             });
+
+            function pause()
+                {
+                  Crafty.pause();
+                }
